@@ -1,7 +1,7 @@
 Sistema teste para sevensys
 
-    A aplicação é uma API Rest desenvolvida no padrao MVC utilizando SpringBoot e pra camada de 
-    persistência foi utilizado Hibernate nas especificações do JPA. Foi utilizado
+    A aplicação é uma API Rest desenvolvida no padrao MVC utilizando SpringBoot e na camada de
+    persistência (orm) foi utilizado Hibernate nas especificações do JPA. Foi utilizado
     as melhores práticas de desenvolvimento como: clean code (codigo otimizado e endentado 
     e auto explicativo sem sujar o código com comentários), divisão de responsábilidades, tratamento 
     de erros etc.
